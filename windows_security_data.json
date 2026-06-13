@@ -1,0 +1,30 @@
+﻿{
+    "DefenderStatus":  "Running",
+    "ComputerName":  "OKAEYBOY0",
+    "RunningProcesses":  [
+                             "afwServ",
+                             "AggregatorHost",
+                             "AppActions",
+                             "AppleMobileDeviceService",
+                             "ApplePhotoStreams",
+                             "ApplicationFrameHost",
+                             "APSDaemon",
+                             "aswEngSrv",
+                             "audiodg",
+                             "backgroundTaskHost",
+                             "browserhost",
+                             "cmd",
+                             "Code",
+                             "Code",
+                             "Code",
+                             "Code",
+                             "Code",
+                             "Code",
+                             "Code",
+                             "Code"
+                         ],
+    "LocalAdmins":  [
+                        "Okaeyboy0\\Administrator",
+                        "OKAEYBOY0\\okech"
+                    ]
+}

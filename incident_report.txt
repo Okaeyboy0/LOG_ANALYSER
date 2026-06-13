@@ -1,0 +1,25 @@
+SOC INCIDENT REPORT
+===================
+
+Total Failed Logins: 10
+Total Successful Logins: 3
+
+Alerts:
+
+Alert Type: SUSPICIOUS LOGIN ACTIVITY
+Severity: HIGH
+IP Address: 45.88.22.1
+Username: UNKNOWN
+Description: 45.88.22.1 had 3 failed login attempts
+
+Alert Type: BRUTE FORCE
+Severity: CRITICAL
+IP Address: 185.199.108.2
+Username: UNKNOWN
+Description: 185.199.108.2 is performing a brute force attack with 5 failed attempts
+
+Alert Type: POSSIBLE ACCOUNT COMPROMISE
+Severity: CRITICAL
+IP Address: 45.88.22.1
+Username: root
+Description: 45.88.22.1 had 3 failed attempts against root, then had a successful login

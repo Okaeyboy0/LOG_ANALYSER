@@ -1,1 +1,2 @@
-45.88.22.1 had 3 failed login attempts
+HIGH ALERT: 45.88.22.1 had 3 failed login attempts
+CRITICAL ALERT: 185.199.108.2 is performing a brute force attack with 5 failed attempts

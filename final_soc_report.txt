@@ -1,0 +1,25 @@
+FINAL SOC INCIDENT REPORT
+=========================
+
+Total Risk Score: 200
+
+Correlated Incidents:
+
+Incident Type: Possible Account Compromise
+Severity: CRITICAL
+IP Address: 45.88.22.1
+Username: root
+Risk Score: 200
+Description: 45.88.22.1 had 3 failed attempts against root, then had a successful login
+
+=========================
+
+Incident Type: Brute Force Attack
+Severity: CRITICAL
+IP Address: 185.199.108.2
+Username: UNKNOWN
+Risk Score: 200
+Description: 185.199.108.2 is performing a brute force attack with 5 failed attempts
+
+=========================
+
